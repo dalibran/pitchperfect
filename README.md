@@ -1,5 +1,4 @@
-![Swift](https://dl.dropboxusercontent.com/u/10661713/swift.png)
-![Udacity](https://dl.dropboxusercontent.com/u/10661713/udacity.png)
+<img src="https://eclipsesource.com/wp-content/uploads/2014/06/Apple_Swift_Logo.png" alt="swift" width="64px" height="64px> <img src="https://cdn.worldvectorlogo.com/logos/udacity.svg" alt="udacity" width="64px" height="64px">
 
 <h1>Pitch Perfect</h1>
 
